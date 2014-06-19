@@ -17,3 +17,4 @@ Please post me any good ideas, that I can improve the small project.
 Steven Gong
 
 wcfclientorigin 
+wcfclientChange1
