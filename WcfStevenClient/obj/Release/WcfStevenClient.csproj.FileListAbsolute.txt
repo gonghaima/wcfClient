@@ -1,0 +1,5 @@
+C:\Users\steven.gong\Documents\Visual Studio 2012\Projects\WcfStevenClient\WcfStevenClient\bin\WcfStevenClient.dll
+C:\Users\steven.gong\Documents\Visual Studio 2012\Projects\WcfStevenClient\WcfStevenClient\bin\WcfStevenClient.pdb
+C:\Users\steven.gong\Documents\Visual Studio 2012\Projects\WcfStevenClient\WcfStevenClient\obj\Release\WcfStevenClient.csprojResolveAssemblyReference.cache
+C:\Users\steven.gong\Documents\Visual Studio 2012\Projects\WcfStevenClient\WcfStevenClient\obj\Release\WcfStevenClient.dll
+C:\Users\steven.gong\Documents\Visual Studio 2012\Projects\WcfStevenClient\WcfStevenClient\obj\Release\WcfStevenClient.pdb

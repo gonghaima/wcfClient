@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d7452fb1-3b09-4678-a00f-8fc17eb332f2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://119.47.113.13/wcfServer/WcfServiceLibrary.StevenService.svc/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="15830789-dc90-474e-84aa-359ac35c5209" SourceId="1" SourceUrl="http://119.47.113.13/wcfServer/WcfServiceLibrary.StevenService.svc/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="ed3993d3-60f9-4c16-90d9-d0e6c790a16e" SourceId="1" SourceUrl="http://119.47.113.13/wcfServer/WcfServiceLibrary.StevenService.svc/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="3c13c157-ddeb-4ab0-8dee-a8f849dced07" SourceId="1" SourceUrl="http://119.47.113.13/wcfServer/WcfServiceLibrary.StevenService.svc/mex" />
+    <MetadataFile FileName="WcfServiceLibrary.xsd" MetadataType="Schema" ID="a36cadad-9c3f-4723-8c5d-7c8c15a8b424" SourceId="1" SourceUrl="http://119.47.113.13/wcfServer/WcfServiceLibrary.StevenService.svc/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="d05df603-b3ac-40cf-9c33-22bb936df097" SourceId="1" SourceUrl="http://119.47.113.13/wcfServer/WcfServiceLibrary.StevenService.svc/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

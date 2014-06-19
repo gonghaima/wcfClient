@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WcfStevenClient.dll">
+      <publishTime>06/19/2014 10:34:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>06/10/2014 14:42:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>06/10/2014 14:42:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>06/10/2014 14:42:40</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>06/10/2014 14:42:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>06/10/2014 14:42:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>06/18/2014 11:38:45</publishTime>
+    </File>
+    <File Include="Content/generic.css">
+      <publishTime>06/18/2014 11:36:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>06/10/2014 14:42:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>06/10/2014 14:42:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>06/10/2014 14:42:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>06/10/2014 14:42:40</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>06/18/2014 11:38:12</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/16/2014 12:10:55</publishTime>
+    </File>
+    <File Include="Properties/Settings.settings">
+      <publishTime>06/18/2014 13:23:10</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>06/10/2014 14:42:40</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>06/10/2014 14:42:40</publishTime>
+    </File>
+    <File Include="Scripts/generic.js">
+      <publishTime>06/19/2014 10:30:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.1.js">
+      <publishTime>06/16/2014 12:10:55</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.1.min.js">
+      <publishTime>06/16/2014 12:10:55</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.1.min.map">
+      <publishTime>06/16/2014 12:10:55</publishTime>
+    </File>
+    <File Include="Service References/WebRef/configuration.svcinfo">
+      <publishTime>06/18/2014 13:24:56</publishTime>
+    </File>
+    <File Include="Service References/WebRef/configuration91.svcinfo">
+      <publishTime>06/18/2014 13:24:56</publishTime>
+    </File>
+    <File Include="Service References/WebRef/Reference.svcmap">
+      <publishTime>06/18/2014 13:24:56</publishTime>
+    </File>
+    <File Include="Service References/WebRef/service.wsdl">
+      <publishTime>06/18/2014 13:24:56</publishTime>
+    </File>
+    <File Include="Service References/WebRef/WcfStevenClient.WebRef.CompositeType.datasource">
+      <publishTime>06/19/2014 07:58:16</publishTime>
+    </File>
+    <File Include="Service References/WebRef/WcfStevenClient.WebRef.Employee.datasource">
+      <publishTime>06/19/2014 07:58:15</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/19/2014 10:34:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
