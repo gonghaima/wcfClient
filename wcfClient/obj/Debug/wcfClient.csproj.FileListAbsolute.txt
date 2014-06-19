@@ -1,4 +1,0 @@
-c:\users\steven.gong\documents\visual studio 2012\Projects\wcfClient\wcfClient\bin\wcfClient.dll
-c:\users\steven.gong\documents\visual studio 2012\Projects\wcfClient\wcfClient\bin\wcfClient.pdb
-c:\users\steven.gong\documents\visual studio 2012\Projects\wcfClient\wcfClient\obj\Debug\wcfClient.dll
-c:\users\steven.gong\documents\visual studio 2012\Projects\wcfClient\wcfClient\obj\Debug\wcfClient.pdb
